@@ -1,4 +1,4 @@
 ### Olá!!! Eu sou a Beatriz Silva 👋🏽
 
-- 🌱 Estudando: Python
+- 🌱 Estudando: Salesforce
 - 😄 Pronouns: ela/dela
